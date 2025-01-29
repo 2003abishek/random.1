@@ -1,7 +1,7 @@
 # Web Developer Portfolio
 
 ## 👋 About Me
-Hi, I'm **[Your Name]**, a passionate web developer specializing in front-end and back-end development. I enjoy creating dynamic, responsive, and user-friendly websites.
+Hi, I'm **abishek**, a passionate web developer specializing in front-end and back-end development. I enjoy creating dynamic, responsive, and user-friendly websites.
 
 ## 🚀 Skills
 - **Front-End:** HTML, CSS, JavaScript, React, Vue.js
